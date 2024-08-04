@@ -7,3 +7,4 @@ list belajar :
    - JS Asyncronus
    - JS event
 4. Python
+5. DBMS
