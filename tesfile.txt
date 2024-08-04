@@ -3,6 +3,7 @@ list belajar :
 2. CSS
 3. Javascript
    - Basic logic JS
+   - JS DOM
    - JS Asyncronus
    - JS event
 4. Python
