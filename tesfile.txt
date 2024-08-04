@@ -1,12 +1,5 @@
-test file :
-- try 1
-- try 1
-- try 2
-- nsjdndk
-  > olslspw
-  > 0148
-- jskwkwk
-  > jdoeke
-  > kskeoek
-- try 3
-- try 4
+list belajar :
+1. HTML
+2. CSS
+3. Javascript
+4. Python
